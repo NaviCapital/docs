@@ -1,3 +1,1 @@
-# Sumário
-
-Todo: escrever aqui o sumário com links para a wiki
+Siga o link para ler a [documentação completa](https://github.com/NaviCapital/docs/wiki).
